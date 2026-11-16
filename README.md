@@ -80,6 +80,6 @@ Data Analytics | Excel Dashboard Project
 This project demonstrates how Microsoft Excel can be used to transform raw customer data into meaningful insights through data analysis and interactive visualizations.
 
 Created as part of my Data Analytics learning journey.
-## Dashboard Preview
-![Customer Demographics Dashboard]
-(Screenshot 1%201.png)
+## 📷 Dashboard Preview
+
+![Customer Demographics Dashboard](Screenshot%201.png)
