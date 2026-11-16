@@ -1,6 +1,5 @@
 # Customer_Demographics_Study
 Excel-based Customer Demographics Analysis Dashboard using Pivot Tables,Charts, and Interactive Slicers.
-Customer Demographics Study – Excel Dashboard
 
 📌 Project Overview
 
@@ -81,3 +80,6 @@ Data Analytics | Excel Dashboard Project
 This project demonstrates how Microsoft Excel can be used to transform raw customer data into meaningful insights through data analysis and interactive visualizations.
 
 Created as part of my Data Analytics learning journey.
+## Dashboard Preview
+![Customer Demographics Dashboard]
+(Screenshot 1%201.png)
